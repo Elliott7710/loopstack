@@ -1,0 +1,10 @@
+{
+  "name": "loopstack-landing",
+  "version": "1.0.0",
+  "description": "Dark closed-beta landing page with animated title, glass cursor card and video background.",
+  "private": true,
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["landing-page", "html", "css", "javascript", "animation"]
+}
