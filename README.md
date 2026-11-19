@@ -4,6 +4,15 @@ A dark, single-screen landing page for a closed beta. Words of the headline rise
 
 Built by AI from a prompt found online. Copy it, open it, or paste it into your own AI and make it yours, with no need to build it from scratch.
 
+---
+## Website details
+| Field | Details |
+|---|---|
+| Website name | Diet Soda |
+| Website link | https://loopstack-prompt.netlify.app |
+| GitHub Repository | https://github.com/Elliott7710/loopstack |
+---
+
 ## Features
 
 - Word-by-word headline reveal with a blur-in effect
@@ -61,4 +70,4 @@ Quick way: paste `index.html` into your AI and say what you want, for example *"
 
 ## Credits
 
-Original prompt: _add the source link here_
+Original prompt will be in PROMPT.md
